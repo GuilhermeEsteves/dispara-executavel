@@ -1,0 +1,12 @@
+c:\users\automacao\documents\visual studio 2013\Projects\Automacao.DisparaExecutavel\Automacao.DisparaBat\bin\Debug\Automacao.DisparaBat.exe
+c:\users\automacao\documents\visual studio 2013\Projects\Automacao.DisparaExecutavel\Automacao.DisparaBat\bin\Debug\Automacao.DisparaBat.pdb
+c:\users\automacao\documents\visual studio 2013\Projects\Automacao.DisparaExecutavel\Automacao.DisparaBat\obj\Debug\Automacao.DisparaBat.csprojResolveAssemblyReference.cache
+c:\users\automacao\documents\visual studio 2013\Projects\Automacao.DisparaExecutavel\Automacao.DisparaBat\obj\Debug\Automacao.DisparaBat.Form1.resources
+c:\users\automacao\documents\visual studio 2013\Projects\Automacao.DisparaExecutavel\Automacao.DisparaBat\obj\Debug\Automacao.DisparaBat.Properties.Resources.resources
+c:\users\automacao\documents\visual studio 2013\Projects\Automacao.DisparaExecutavel\Automacao.DisparaBat\obj\Debug\Automacao.DisparaBat.csproj.GenerateResource.Cache
+c:\users\automacao\documents\visual studio 2013\Projects\Automacao.DisparaExecutavel\Automacao.DisparaBat\obj\Debug\Automacao.DisparaBat.exe
+c:\users\automacao\documents\visual studio 2013\Projects\Automacao.DisparaExecutavel\Automacao.DisparaBat\obj\Debug\Automacao.DisparaBat.pdb
+c:\users\automacao\documents\visual studio 2013\Projects\Automacao.DisparaExecutavel\Automacao.DisparaBat\bin\Debug\Automacao.DisparaBat.exe.manifest
+c:\users\automacao\documents\visual studio 2013\Projects\Automacao.DisparaExecutavel\Automacao.DisparaBat\bin\Debug\Automacao.DisparaBat.application
+c:\users\automacao\documents\visual studio 2013\Projects\Automacao.DisparaExecutavel\Automacao.DisparaBat\obj\Debug\Automacao.DisparaBat.exe.manifest
+c:\users\automacao\documents\visual studio 2013\Projects\Automacao.DisparaExecutavel\Automacao.DisparaBat\obj\Debug\Automacao.DisparaBat.application
